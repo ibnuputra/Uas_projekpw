@@ -1,0 +1,12 @@
+Instruksi
+
+1. Download File Project lalu Extract
+2. Buat database baru dengan nama dbresto lalu export database nya
+3. Buka folder resto di visual studio code buka terminal lalu jalankan "npm run dev" lalu buka terminal baru dan jalankan "php artisan serve"
+4. Login menggunakan username : admin@gmail.com dan password : admin123
+
+Link :
+Url utama : /
+Dashboard : /dashboard
+Dashboard Produk : /produk
+Dashboard Kategori : /kategori
